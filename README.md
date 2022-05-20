@@ -1,6 +1,6 @@
-#Github_through_terminal
+# Github_through_terminal
 
-##Labwork
+## Labwork
 
 This file contains commands which were used to 
 create a file on desktop and then push it 
